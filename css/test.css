@@ -1,0 +1,12 @@
+.flex-container{
+    display:flex;
+    background-color: #cfcccc;
+    /* flex-direction: column; */
+}
+div{
+    background-color: black;
+    color:white;
+    margin: 5px;
+    padding: 5px;
+    font-size: 35px;
+}
